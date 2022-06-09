@@ -16,7 +16,7 @@ If you don't already have a [Vercel account](https://vercel.com/signup), create 
 
 ## Task 2: Create a Vercel Project
 
-1. From the Vercel dashboard, create a new project.
+1. From the Vercel dashboard, create a new project. 
 1. Choose **Continue with GitHub**.
 1. Find the **social-app-demo** repository in the list and choose **Import**.
 1. Select **Next.js** as the framework.
